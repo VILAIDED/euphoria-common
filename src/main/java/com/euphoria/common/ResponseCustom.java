@@ -22,15 +22,15 @@ public class ResponseCustom {
   @JsonInclude(JsonInclude.Include.NON_NULL)
   private Object meta;
 
-  public static ResponseCustom success(Object data) {
+  public static ResponseCustom successResponse(Object data) {
     return ResponseCustom.builder().status(StatusMessage.SUCCESS).data(data).build();
   }
 
-  public static ResponseCustom successWithMeta(Object data, Object meta) {
+  public static ResponseCustom successResponseWithMeta(Object data, Object meta) {
     return ResponseCustom.builder().status(StatusMessage.SUCCESS).data(data).meta(meta).build();
   }
 
-  public static ResponseCustom error(Object error) {
+  public static ResponseCustom errorResponse(Object error) {
     return ResponseCustom.builder().status(StatusMessage.ERROR).error(error).build();
   }
 }

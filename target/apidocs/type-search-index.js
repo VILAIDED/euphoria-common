@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.euphoria.common","l":"ResponseCustom"},{"p":"com.euphoria.common","l":"StatusMessage"}]
