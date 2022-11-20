@@ -7,9 +7,12 @@
             <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
         </license>
     </licenses>
+    <name>euphoria</name>
+    <description>common function for pbl6 project</description>
+    <url>https://github.com/VILAIDED/euphoria-common.git</url>
     <groupId>io.github.vilaided</groupId>
     <artifactId>euphoria-common</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.3-SNAPSHOT</version>
     <distributionManagement>
         <snapshotRepository>
             <id>ossrh</id>
@@ -20,6 +23,7 @@
             <url>https://s01.oss.sonatype.org/service/local/staging/deploy/maven2/</url>
         </repository>
     </distributionManagement>
+
 
     <properties>
         <java.version>17</java.version>
