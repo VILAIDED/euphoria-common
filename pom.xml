@@ -9,7 +9,7 @@
     </licenses>
     <groupId>io.github.vilaided</groupId>
     <artifactId>euphoria-common</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <distributionManagement>
         <snapshotRepository>
             <id>ossrh</id>
@@ -31,7 +31,7 @@
         <connection>scm:git:git://github.com/VILAIDED/euphoria-common.git</connection>
         <developerConnection>scm:git:ssh://github.com:VILAIDED/euphoria-common.git</developerConnection>
         <url>http://github.com/VILAIDED/euphoria-common/tree/master</url>
-      <tag>euphoria-common-1.0.1</tag>
+      <tag>1.0.1</tag>
   </scm>
     <developers>
         <developer>
