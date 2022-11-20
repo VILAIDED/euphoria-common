@@ -12,7 +12,7 @@
     <url>https://github.com/VILAIDED/euphoria-common.git</url>
     <groupId>io.github.vilaided</groupId>
     <artifactId>euphoria-common</artifactId>
-    <version>1.0.3</version>
+    <version>1.0.3-SNAPSHOT</version>
     <distributionManagement>
         <snapshotRepository>
             <id>ossrh</id>
