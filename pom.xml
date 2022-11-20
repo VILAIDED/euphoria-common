@@ -9,7 +9,7 @@
     </licenses>
     <groupId>io.github.vilaided</groupId>
     <artifactId>euphoria-common</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.1-SNAPSHOT</version>
     <distributionManagement>
         <snapshotRepository>
             <id>ossrh</id>
