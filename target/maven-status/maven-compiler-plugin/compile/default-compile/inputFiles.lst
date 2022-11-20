@@ -1,2 +1,4 @@
+/home/pkzero/project/JavaProject/euphoria-common/src/main/java/com/euphoria/common/domain/model/UserPrincipal.java
+/home/pkzero/project/JavaProject/euphoria-common/src/main/java/com/euphoria/common/domain/model/UserInfo.java
 /home/pkzero/project/JavaProject/euphoria-common/src/main/java/com/euphoria/common/ResponseCustom.java
-/home/pkzero/project/JavaProject/euphoria-common/src/main/java/com/euphoria/common/StatusMessage.java
+/home/pkzero/project/JavaProject/euphoria-common/src/main/java/com/euphoria/common/domain/model/enums/Role.java

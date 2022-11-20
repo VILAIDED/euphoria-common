@@ -11,10 +11,9 @@ import lombok.*;
 @Data
 public class ResponseCustom {
 
-  private String status;
 
   @JsonInclude(JsonInclude.Include.NON_NULL)
-  private Object error;
+  private String error;
 
   @JsonInclude(JsonInclude.Include.NON_NULL)
   private Object data;
@@ -23,14 +22,14 @@ public class ResponseCustom {
   private Object meta;
 
   public static ResponseCustom successResponse(Object data) {
-    return ResponseCustom.builder().status(StatusMessage.SUCCESS).data(data).build();
+    return ResponseCustom.builder().data(data).build();
   }
 
   public static ResponseCustom successResponseWithMeta(Object data, Object meta) {
-    return ResponseCustom.builder().status(StatusMessage.SUCCESS).data(data).meta(meta).build();
+    return ResponseCustom.builder().data(data).meta(meta).build();
   }
 
-  public static ResponseCustom errorResponse(Object error) {
-    return ResponseCustom.builder().status(StatusMessage.ERROR).error(error).build();
+  public static ResponseCustom errorResponse(String error) {
+    return ResponseCustom.builder().error(error).build();
   }
 }

@@ -1,3 +1,6 @@
-com/euphoria/common/StatusMessage.class
+com/euphoria/common/domain/model/UserPrincipal$UserPrincipalBuilder.class
 com/euphoria/common/ResponseCustom$ResponseCustomBuilder.class
+com/euphoria/common/domain/model/UserPrincipal.class
+com/euphoria/common/domain/model/UserInfo.class
+com/euphoria/common/domain/model/enums/Role.class
 com/euphoria/common/ResponseCustom.class

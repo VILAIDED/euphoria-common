@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.euphoria.common","l":"ResponseCustom"},{"p":"com.euphoria.common","l":"StatusMessage"}]
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.euphoria.common","l":"ResponseCustom"},{"p":"com.euphoria.common.domain.model.enums","l":"Role"},{"p":"com.euphoria.common.domain.model","l":"UserInfo"},{"p":"com.euphoria.common.domain.model","l":"UserPrincipal"}]

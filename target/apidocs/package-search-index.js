@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.euphoria.common"}]
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.euphoria.common"},{"l":"com.euphoria.common.domain.model"},{"l":"com.euphoria.common.domain.model.enums"}]
